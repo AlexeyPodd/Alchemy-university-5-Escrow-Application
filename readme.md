@@ -24,3 +24,9 @@ Compile the contracts using `npx hardhat compile`. The artifacts will be placed 
 
 To run the front-end application run `npm start` from the `/app` directory. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+## What was done during the Project
+
+1. Added simple backend server for storing addresses of contracts
+2. Simple inputs were replaced with form (useForm), with frontend validation
+3. Added frontend denomination select for creating new contract
+4. App was fragmented into components for greater ease of working with it
